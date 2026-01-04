@@ -1,1 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement virtuel
+venv/
+
+# Configs sensibles
 .env
+
+# GIF temporaires
+frames/
+
+# OS / éditeur
+.DS_Store
+.idea/
+.vscode/
+*.swp
