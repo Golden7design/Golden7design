@@ -14,7 +14,10 @@ data collection → analysis → design → implementation → testing → deplo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nassir-gouomba-69620035a?trk=contact-info) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouombanassir@gmail.com) 
+  - Portfolio: [nassir.vercel.app](https://nassir.vercel.app/)
+  - LinkedIn: https://www.linkedin.com/in/nassir-gouomba-69620035a?trk=contact-info
+  - Whatsapp: https://wa.me/+242068765939
+  - Email: mailto:gouombanassir@gmail.com
 
 
 # 💻 Tech Stack:
