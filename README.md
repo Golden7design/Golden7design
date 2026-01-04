@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Terminal GIF](./output.gif)
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVtMWVwc202NnN1Z2d3NHE0NWg0YnhpOG12NHNiYnlybnA5aWl1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 👋 I'm a Full Stack Web Developer & DevOps engineer, passionate about creating useful, reliable, and impactful products.
 
