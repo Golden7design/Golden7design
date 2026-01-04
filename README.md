@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Terminal GIF](./output.gif)
+
 👋 I'm a Full Stack Web Developer & DevOps engineer, passionate about creating useful, reliable, and impactful products.
 
 🏋️​What motivates me most in my field is being a key member of a team: understanding problems, proposing robust solutions, and creating truly outstanding user experiences.
