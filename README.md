@@ -8,7 +8,7 @@
 ✊​I integrate security and best practices from the development phase, not as an afterthought. For me, a good product is one that works correctly in real-world conditions, both now and in the future.
 
 ♾️​My workflow is structured and production-oriented:
-data collection → analysis → design → implementation → testing → deployment → monitoring & maintenance.
+`data collection` → `analysis` → `design` → `implementation` → `testing` → `deployment` → `monitoring & maintenance.`
 
 🧐I'm looking to participate in projects that implement new technologies, modern, popular, and essential solutions on a large scale, where innovation meets real-world needs.
 
@@ -21,7 +21,7 @@ data collection → analysis → design → implementation → testing → deplo
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,javascript,azure,react,threejs,next,nest,nodejs,expressjs,php,jenkins,tailwindcss,typescript,css,html,figma,mongodb,mysql,postgres,firebase,docker,git,gitlab,github,kubernetes,cisco&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,javascript,azure,react,threejs,next,nest,nodejs,expressjs,vscode,php,jenkins,tailwindcss,typescript,css,html,figma,mongodb,mysql,postgres,firebase,docker,git,gitlab,github,postman,kubernetes,cisco&perline=10)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
