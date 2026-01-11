@@ -21,7 +21,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,javascript,azure,react,threejs,next,nest,nodejs,expressjs,vscode,php,jenkins,tailwindcss,typescript,css,html,figma,mongodb,mysql,postgres,firebase,docker,kubernetes,terraform, ansible,git,gitlab,github,postman,kubernetes,cisco&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,javascript,azure,react,threejs,next,nest,nodejs,expressjs,vscode,php,jenkins,tailwindcss,typescript,css,html,figma,mongodb,mysql,postgres,firebase,docker,kubernetes,terraform,ansible,git,gitlab,github,postman,kubernetes,cisco&perline=10)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
