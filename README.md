@@ -1,6 +1,8 @@
 # 💫 About Me:
 ![image](https://github.com/user-attachments/assets/22b4c7db-2b8e-4e57-b67c-991615552b38)
 
+![image](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2tocHN4dHo5djZiZ3kzNjh4cGRqYXg1ZHBucHF4eWhuaWx6dm1oaiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/CJjU1H0luoCXqM2OP7/200w.webp)
+
 👋 I'm a `Full Stack Web Developer & DevOps engineer`, passionate about creating useful, reliable, and impactful products.
 
 🏋️​What motivates me most in my field is being a key member of a team: understanding problems, proposing robust solutions, and creating truly outstanding user experiences.
